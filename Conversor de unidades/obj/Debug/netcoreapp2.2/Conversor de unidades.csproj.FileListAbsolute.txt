@@ -1,0 +1,11 @@
+C:\Users\new\Desktop\Conversor de unidades\bin\Debug\netcoreapp2.2\Conversor de unidades.deps.json
+C:\Users\new\Desktop\Conversor de unidades\bin\Debug\netcoreapp2.2\Conversor de unidades.runtimeconfig.json
+C:\Users\new\Desktop\Conversor de unidades\bin\Debug\netcoreapp2.2\Conversor de unidades.runtimeconfig.dev.json
+C:\Users\new\Desktop\Conversor de unidades\bin\Debug\netcoreapp2.2\Conversor de unidades.dll
+C:\Users\new\Desktop\Conversor de unidades\bin\Debug\netcoreapp2.2\Conversor de unidades.pdb
+C:\Users\new\Desktop\Conversor de unidades\obj\Debug\netcoreapp2.2\Conversor de unidades.csprojAssemblyReference.cache
+C:\Users\new\Desktop\Conversor de unidades\obj\Debug\netcoreapp2.2\Conversor de unidades.csproj.CoreCompileInputs.cache
+C:\Users\new\Desktop\Conversor de unidades\obj\Debug\netcoreapp2.2\Conversor de unidades.AssemblyInfoInputs.cache
+C:\Users\new\Desktop\Conversor de unidades\obj\Debug\netcoreapp2.2\Conversor de unidades.AssemblyInfo.cs
+C:\Users\new\Desktop\Conversor de unidades\obj\Debug\netcoreapp2.2\Conversor de unidades.dll
+C:\Users\new\Desktop\Conversor de unidades\obj\Debug\netcoreapp2.2\Conversor de unidades.pdb
